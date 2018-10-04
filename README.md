@@ -36,7 +36,7 @@ Please **anonymize your submission (double-blind reviewing policy)** and submit 
 - Deadline for final copy of accepted papers: tbd.
 - Workshop date: March 20, 2019
 
-## Organisers
+## Organizers
 - [Peter Knees](https://www.ifs.tuwien.ac.at/~knees/), TU Wien, Austria
 - [Markus Schedl](https://www.jku.at/en/institute-of-computational-perception/about-us/people/markus-schedl/), Johannes Kepler University Linz, Austria
 - [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/), Goldsmiths, University of London, UK
