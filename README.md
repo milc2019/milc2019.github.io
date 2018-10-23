@@ -31,9 +31,9 @@ Submissions must follow the standard SigCHI format, using one of the following t
 Please **anonymize your submission (double-blind reviewing policy)** and submit your paper via [EasyChair](https://easychair.org/conferences/?conf=milc2019). Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop. The workshop proceedings are to be published in the joint proceedings of the ACM IUI 2019 Workshops.
 
 ## Important Dates
-- Deadline for paper submission: tdb. (mid-December 2018)
-- Acceptance notification for paper submissions: tbd.
-- Deadline for final copy of accepted papers: tbd.
+- Deadline for paper submission: December 7th, 2018
+- Acceptance notification for paper submissions: January 14th, 2019
+- Deadline for final copy of accepted papers: February 15th, 2019
 - Workshop date: March 20, 2019
 
 ## Organizers
