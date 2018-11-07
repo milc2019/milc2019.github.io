@@ -44,9 +44,12 @@ Please **anonymize your submission (double-blind reviewing policy)** and submit 
 Contact: [milc2019@easychair.org](mailto:milc2019@easychair.org)
 
 ## Program Committee (confirmed; to be extended)
-- Dietmar Jannach, AAU Klagenfurt
-- Cárthach Ónuanáin, melodrive
-- Bruce Ferwerda, Jönköping University
-- Vikas Kumar, University of Minnesota
 - Baptiste Caramiaux, IRCAM
+- Mark Cartwright, NYU
+- Bruce Ferwerda, Jönköping University
+- Masataka Goto, AIST
+- Dietmar Jannach, AAU Klagenfurt
+- Vikas Kumar, University of Minnesota
+- Cárthach Ó Nuanáin, melodrive
 - Gabriel Vigliensoni, McGill University
+- Richard Vogl, TU Wien
