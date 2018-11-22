@@ -51,5 +51,6 @@ Contact: [milc2019@easychair.org](mailto:milc2019@easychair.org)
 - Dietmar Jannach, AAU Klagenfurt
 - Vikas Kumar, University of Minnesota
 - Cárthach Ó Nuanáin, melodrive
+- Adam Roberts, Google
 - Gabriel Vigliensoni, McGill University
 - Richard Vogl, TU Wien
