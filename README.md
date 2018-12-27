@@ -47,6 +47,7 @@ Contact: [milc2019@easychair.org](mailto:milc2019@easychair.org)
 - Baptiste Caramiaux, IRCAM
 - Mark Cartwright, NYU
 - Bruce Ferwerda, Jönköping University
+- Fabien Gouyon, Pandora Inc.
 - Masataka Goto, AIST
 - Dietmar Jannach, AAU Klagenfurt
 - Vikas Kumar, University of Minnesota
