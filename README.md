@@ -1,7 +1,7 @@
 ## Welcome to the 2nd MILC Workshop 
 MILC 2019 is held in conjunction with the 24th International Conference on Intelligent User Interfaces ([IUI 2019](http://iui.acm.org/2019)) and takes place on March 20th, 2019 at the Marriott Marina Del Rey in Los Angeles, CA, USA. 
 
-## Workshop Program (tentative)
+## Workshop Program (preliminary)
 
 #### 9:00-9:10	Welcome
 #### 9:10-10:30 Session 1
@@ -15,7 +15,11 @@ MILC 2019 is held in conjunction with the 24th International Conference on Intel
 - Towards a Hybrid Recommendation System for a Sound Library. *Jason Smith, Dillon Weeks, Mikhail Jacob, Jason Freeman and Brian Magerko* (25+5')
 - A Minimal Template for Interactive Web-Based Demonstrations of Musical Machine Learning. *Vibert Thio, Hao-Min Liu, Yin-Cheng Yeh and Yi-Hsuan Yang* (25+5')
 - Keynote: [Intelligent Music Interfaces Based on Music Signal Analysis](#keynote). *Masataka Goto* (40+20')
- 
+
+#### 13:00-14:00 *Lunch Break*
+#### 14:00-15:30 Demo Session (tbc.)
+#### 15:30-16:00 *Coffee Break (provided)*
+
 ## <a name="keynote"></a>Keynote Talk
 
 #### Title: Intelligent Music Interfaces Based on Music Signal Analysis
