@@ -1,5 +1,31 @@
 ## Welcome to the 2nd MILC Workshop 
-MILC 2019 is held in conjunction with the 24th International Conference on Intelligent User Interfaces ([IUI 2019](http://iui.acm.org/2019)) and will take place on March 20th, 2019 at the Marriott Marina Del Rey in Los Angeles, CA, USA. Stay tuned for further information, call for papers, and submission dates.
+MILC 2019 is held in conjunction with the 24th International Conference on Intelligent User Interfaces ([IUI 2019](http://iui.acm.org/2019)) and takes place on March 20th, 2019 at the Marriott Marina Del Rey in Los Angeles, CA, USA. 
+
+## Workshop Program (tentative)
+
+#### 9:00-9:10	Welcome
+#### 9:10-10:30 Session 1
+- A Web-Based System For Suggesting New Practice Material To Music Learners Based On Chord Content. *Johan Pauwels and Mark Sandler* (15+5')
+- Groove Explorer: An Intelligent Visual Interface for Drum Loop Library Navigation. *Fred Bruford, Mathieu Barthet, Skot McDonald and Mark Sandler* (15+5')
+- Curating Generative Raw Audio Music with D.O.M.E. *Cj Carr and Zack Zukowski* (15+5')
+- Creating Immersive Electronic Music from the Sonic Activity of Environmental Soundscapes. *Eli Stine* (15+5')
+
+#### 10:30-11:00 *Coffee Break (provided)*
+#### 11:00-13:00 Session 2
+- Towards a Hybrid Recommendation System for a Sound Library. *Jason Smith, Dillon Weeks, Mikhail Jacob, Jason Freeman and Brian Magerko* (25+5')
+- A Minimal Template for Interactive Web-Based Demonstrations of Musical Machine Learning. *Vibert Thio, Hao-Min Liu, Yin-Cheng Yeh and Yi-Hsuan Yang* (25+5')
+- Keynote: [Intelligent Music Interfaces Based on Music Signal Analysis](#keynote). *Masataka Goto* (40+20')
+ 
+## <a name="keynote"></a>Keynote Talk
+
+#### Title: Intelligent Music Interfaces Based on Music Signal Analysis
+
+#### Speaker: [Masataka Goto](https://staff.aist.go.jp/m.goto/), National Institute of Advanced Industrial Science and Technology (AIST)
+
+#### Biography:
+Masataka Goto received the Doctor of Engineering degree from Waseda University in 1998. He is currently a Prime Senior Researcher at the National Institute of Advanced Industrial Science and Technology (AIST). In 1992 he was one of the first to start working on automatic music understanding and has since been at the forefront of research in music technologies and music interfaces based on those technologies.
+Over the past 26 years he has published more than 250 papers in refereed journals and international conferences and has received 46 awards, including several best paper awards, best presentation awards, the Tenth Japan Academy Medal, and the Tenth JSPS PRIZE. He has served as a committee member of over 110 scientific societies and conferences, including the General Chair of the 10th and 15th International Society for Music Information Retrieval Conferences (ISMIR 2009 and 2014). In 2016, as the Research Director he began a 5-year research project (OngaACCEL Project) on music technologies, a project funded by the Japan Science and Technology Agency (ACCEL, JST).
+
 
 ## Workshop Motivation
 Today's music ecosystem is permeated by digital technology — from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the **music creation** side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesising new sounds or even new musical material. On the **music consumption** side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.
@@ -32,7 +58,7 @@ Please **anonymize your submission (double-blind reviewing policy)** and submit 
 
 ## Important Dates (all deadlines 23:59 Anywhere on Earth)
 - Deadline for paper submission (extended): ~~December 7th, 2018~~ December 14th, 2018
-- Acceptance notification for paper submissions: January 14th, 2019
+- Acceptance notification for paper submissions: ~~January 14th, 2019~~
 - Deadline for final copy of accepted papers: February 15th, 2019
 - Workshop date: March 20, 2019
 
@@ -43,7 +69,7 @@ Please **anonymize your submission (double-blind reviewing policy)** and submit 
 
 Contact: [milc2019@easychair.org](mailto:milc2019@easychair.org)
 
-## Program Committee (confirmed)
+## Program Committee
 - Baptiste Caramiaux, IRCAM
 - Mark Cartwright, NYU
 - Bruce Ferwerda, Jönköping University
@@ -51,7 +77,7 @@ Contact: [milc2019@easychair.org](mailto:milc2019@easychair.org)
 - Masataka Goto, AIST
 - Dietmar Jannach, AAU Klagenfurt
 - Vikas Kumar, University of Minnesota
-- Cárthach Ó Nuanáin, melodrive
+- Cárthach Ó Nuanáin, melodrive Inc.
 - Adam Roberts, Google
 - Gabriel Vigliensoni, McGill University
 - Richard Vogl, TU Wien
