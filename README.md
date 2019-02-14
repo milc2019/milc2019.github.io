@@ -1,7 +1,11 @@
 ## Welcome to the 2nd MILC Workshop 
 MILC 2019 is held in conjunction with the 24th International Conference on Intelligent User Interfaces ([IUI 2019](http://iui.acm.org/2019)) and takes place on March 20th, 2019 at the Marriott Marina Del Rey in Los Angeles, CA, USA. 
 
-## Workshop Program (preliminary)
+## News
+- We are excited and honored to have [Masataka Goto as the keynote speaker](#keynote) at this year's MILC workshop!
+- Preliminary [program](#program) online
+
+## <a name="program"></a>Workshop Program (preliminary)
 
 #### 9:00-9:10	Welcome
 #### 9:10-10:30 Session 1
