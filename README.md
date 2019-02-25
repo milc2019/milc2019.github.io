@@ -36,7 +36,7 @@ In this talk I will present intelligent music interfaces demonstrating how end u
 
 ### Speaker
 
-<img src="/img/MasatakaGoto.jpg" alt="Masataka Goto" width="300" align="left" style="border: 1px solid #ddd; border-radius: 6px; padding: 5px; margin: 5px 20px; width: 280px;" />
+<img src="/img/MasatakaGoto.jpg" alt="Masataka Goto" width="300" align="left" style="border: 1px solid #ddd; border-radius: 6px; padding: 5px; margin: 5px 20px 5px 0px; width: 300px;" />
 
 #### [Masataka Goto](https://staff.aist.go.jp/m.goto/), National Institute of Advanced Industrial Science and Technology (AIST)
 Masataka Goto received the Doctor of Engineering degree from Waseda University in 1998. He is currently a Prime Senior Researcher at the National Institute of Advanced Industrial Science and Technology (AIST). In 1992 he was one of the first to start working on automatic music understanding and has since been at the forefront of research in music technologies and music interfaces based on those technologies.
