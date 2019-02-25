@@ -2,6 +2,7 @@
 MILC 2019 is held in conjunction with the 24th International Conference on Intelligent User Interfaces ([IUI 2019](http://iui.acm.org/2019)) and takes place on March 20th, 2019 at the Marriott Marina Del Rey in Los Angeles, CA, USA. 
 
 ## News
+- **Call for demos open to all!** If you want to present your intelligent music interface in the [open demo session](#1030-1100-open-demo-session-during-coffee-break) send an email to [milc2019@easychair.org](mailto:milc2019@easychair.org)
 - [Workshop Program](#workshop-program) online
 - We are excited and honored to have [Masataka Goto as the keynote speaker](#keynote-talk-by-masataka-goto) at this year's MILC workshop!
 
