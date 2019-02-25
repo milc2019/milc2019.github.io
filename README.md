@@ -31,7 +31,7 @@ This is an open session to demonstrate intelligent music interfaces from the wor
 ## Keynote Talk by Masataka Goto
 ### Intelligent Music Interfaces Based on Music Signal Analysis
 
-<img src="/img/MasatakaGoto.jpg" alt="Masataka Goto" width="300" align="left" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; margin: 10px 25px; width: 300px;" />
+<img src="/img/MasatakaGoto.jpg" alt="Masataka Goto" width="300" align="left" style="border: 1px solid #ddd; border-radius: 6px; padding: 5px; margin: 5px 20px; width: 280px;" />
 
 #### Abstract:
 In this talk I will present intelligent music interfaces demonstrating how end users can benefit from automatic analysis of music signals (automatic music-understanding technologies) based on signal processing and/or machine learning. I will also introduce our recent challenge of deploying research-level music interfaces as public web services and platforms that enrich music experiences. They can analyze and visualize music content on the web, enable music-synchronized control of computer-graphics animation and robots, and provide an audience of hundreds with a bring-your-own-device experience of music-synchronized animations on smartphones. In the future, further advances in music signal analysis and music interfaces based on it will make interaction between people and music more active and enriching.
