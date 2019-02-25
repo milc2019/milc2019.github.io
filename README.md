@@ -29,7 +29,7 @@ This is an open session to demonstrate intelligent music interfaces from the wor
 
 
 ## Keynote Talk by Masataka Goto
-### Title: Intelligent Music Interfaces Based on Music Signal Analysis
+### Intelligent Music Interfaces Based on Music Signal Analysis
 
 <img src="/img/MasatakaGoto.jpg" alt="Masataka Goto" width="300" align="left" />
 
