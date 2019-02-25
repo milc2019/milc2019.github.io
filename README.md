@@ -31,12 +31,13 @@ This is an open session to demonstrate intelligent music interfaces from the wor
 ## Keynote Talk by Masataka Goto
 ### Intelligent Music Interfaces Based on Music Signal Analysis
 
-<img src="/img/MasatakaGoto.jpg" alt="Masataka Goto" width="300" align="left" style="border: 1px solid #ddd; border-radius: 6px; padding: 5px; margin: 5px 20px; width: 280px;" />
-
-#### Abstract:
+#### Abstract
 In this talk I will present intelligent music interfaces demonstrating how end users can benefit from automatic analysis of music signals (automatic music-understanding technologies) based on signal processing and/or machine learning. I will also introduce our recent challenge of deploying research-level music interfaces as public web services and platforms that enrich music experiences. They can analyze and visualize music content on the web, enable music-synchronized control of computer-graphics animation and robots, and provide an audience of hundreds with a bring-your-own-device experience of music-synchronized animations on smartphones. In the future, further advances in music signal analysis and music interfaces based on it will make interaction between people and music more active and enriching.
 
-### Speaker Biography:
+### Speaker
+
+<img src="/img/MasatakaGoto.jpg" alt="Masataka Goto" width="300" align="left" style="border: 1px solid #ddd; border-radius: 6px; padding: 5px; margin: 5px 20px; width: 280px;" />
+
 #### [Masataka Goto](https://staff.aist.go.jp/m.goto/), National Institute of Advanced Industrial Science and Technology (AIST)
 Masataka Goto received the Doctor of Engineering degree from Waseda University in 1998. He is currently a Prime Senior Researcher at the National Institute of Advanced Industrial Science and Technology (AIST). In 1992 he was one of the first to start working on automatic music understanding and has since been at the forefront of research in music technologies and music interfaces based on those technologies.
 Over the past 26 years he has published more than 250 papers in refereed journals and international conferences and has received 46 awards, including several best paper awards, best presentation awards, the Tenth Japan Academy Medal, and the Tenth JSPS PRIZE. He has served as a committee member of over 110 scientific societies and conferences, including the General Chair of the 10th and 15th International Society for Music Information Retrieval Conferences (ISMIR 2009 and 2014). In 2016, as the Research Director he began a 5-year research project (OngaACCEL Project) on music technologies, a project funded by the Japan Science and Technology Agency (ACCEL, JST).
