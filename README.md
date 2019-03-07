@@ -19,6 +19,7 @@ MILC 2019 is held in conjunction with the 24th International Conference on Intel
 This is an open session to demonstrate intelligent music interfaces from the workshop and outside. Send an email to [milc2019@easychair.org](mailto:milc2019@easychair.org) if you want to present your demo here. Current list of demos: 
 - A Web-Based System For Suggesting New Practice Material To Music Learners Based On Chord Content. *Johan Pauwels*
 - A Minimal Template for Interactive Web-Based Demonstrations of Musical Machine Learning. *Vibert Thio*
+- TextTimeline: Visualizing Vocalized Timing of Singing Voice along Display Text. *Tomoyasu Nakano, Jun Kato, and Masataka Goto*
 
 #### 11:00-12:00 Session 2 (Long Papers)
 - Towards a Hybrid Recommendation System for a Sound Library. *Jason Smith, Dillon Weeks, Mikhail Jacob, Jason Freeman and Brian Magerko* (25+5')
