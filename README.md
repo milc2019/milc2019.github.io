@@ -2,28 +2,29 @@
 MILC 2019 is held in conjunction with the 24th International Conference on Intelligent User Interfaces ([IUI 2019](http://iui.acm.org/2019)) and takes place on March 20th, 2019 at the Marriott Marina Del Rey in Los Angeles, CA, USA. 
 
 ## News
+- [MILC Workshop Proceedings](http://ceur-ws.org/Vol-2327/#MILC) online
 - **Call for demos open to all!** If you want to present your intelligent music interface in the [open demo session](#1030-1100-open-demo-session-during-coffee-break), send an email to [milc2019@easychair.org](mailto:milc2019@easychair.org)
 - [Workshop Program](#workshop-program) online
 - We are excited and honored to have [Masataka Goto as the keynote speaker](#keynote-talk-by-masataka-goto) at this year's MILC workshop!
 
 ## Workshop Program
 
-#### 9:00-9:10	Welcome
+#### 9:00-9:10	Welcome ([Proceedings Preface](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-0.pdf))
 #### 9:10-10:30 Session 1 (Short Papers)
-- A Web-Based System For Suggesting New Practice Material To Music Learners Based On Chord Content. *Johan Pauwels and Mark Sandler* (15+5')
-- Groove Explorer: An Intelligent Visual Interface for Drum Loop Library Navigation. *Fred Bruford, Mathieu Barthet, Skot McDonald and Mark Sandler* (15+5')
-- Curating Generative Raw Audio Music with D.O.M.E. *Cj Carr and Zack Zukowski* (15+5')
-- Creating Immersive Electronic Music from the Sonic Activity of Environmental Soundscapes. *Eli Stine* (15+5')
+- [A Web-Based System For Suggesting New Practice Material To Music Learners Based On Chord Content]](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-1.pdf). *Johan Pauwels and Mark Sandler* (15+5')
+- [Groove Explorer: An Intelligent Visual Interface for Drum Loop Library Navigation](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-2.pdf). *Fred Bruford, Mathieu Barthet, SKoT McDonald and Mark Sandler* (15+5')
+- [Curating Generative Raw Audio Music with D.O.M.E.](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-3.pdf). *CJ Carr and Zack Zukowski* (15+5')
+- [Creating Immersive Electronic Music from the Sonic Activity of Environmental Soundscapes](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-4.pdf). *Eli Stine* (15+5')
 
 #### 10:30-11:00 Open Demo Session *during Coffee Break*
-This is an open session to demonstrate intelligent music interfaces from the workshop and outside. Send an email to [milc2019@easychair.org](mailto:milc2019@easychair.org) if you want to present your demo here. Current list of demos: 
+This is an open session to demonstrate intelligent music interfaces from the workshop and outside. Current list of demos: 
 - A Web-Based System For Suggesting New Practice Material To Music Learners Based On Chord Content. *Johan Pauwels*
 - A Minimal Template for Interactive Web-Based Demonstrations of Musical Machine Learning. *Vibert Thio*
 - TextTimeline: Visualizing Vocalized Timing of Singing Voice along Display Text. *Tomoyasu Nakano, Jun Kato, and Masataka Goto*
 
 #### 11:00-12:00 Session 2 (Long Papers)
-- Towards a Hybrid Recommendation System for a Sound Library. *Jason Smith, Dillon Weeks, Mikhail Jacob, Jason Freeman and Brian Magerko* (25+5')
-- A Minimal Template for Interactive Web-Based Demonstrations of Musical Machine Learning. *Vibert Thio, Hao-Min Liu, Yin-Cheng Yeh and Yi-Hsuan Yang* (25+5')
+- [Towards a Hybrid Recommendation System for a Sound Library](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-5.pdf). *Jason Smith, Dillon Weeks, Mikhail Jacob, Jason Freeman and Brian Magerko* (25+5')
+- [A Minimal Template for Interactive Web-Based Demonstrations of Musical Machine Learning](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-6.pdf). *Vibert Thio, Hao-Min Liu, Yin-Cheng Yeh and Yi-Hsuan Yang* (25+5')
 
 #### 12:00-13:00 Keynote by Masataka Goto: [Intelligent Music Interfaces Based on Music Signal Analysis](#keynote-talk-by-masataka-goto)
 
