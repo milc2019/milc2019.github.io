@@ -1,5 +1,5 @@
 ## Welcome to the 2nd MILC Workshop 
-MILC 2019 is held in conjunction with the 24th International Conference on Intelligent User Interfaces ([IUI 2019](http://iui.acm.org/2019)) and takes place on March 20th, 2019 at the Marriott Marina Del Rey in Los Angeles, CA, USA. 
+MILC 2019 is held in conjunction with the 24th International Conference on Intelligent User Interfaces ([IUI 2019](http://iui.acm.org/2019)) and takes place on March 20th, 2019 at the Marriott Marina Del Rey in Los Angeles, CA, USA. (**Room: Pacific 2**)
 
 ## News
 - [MILC Workshop Proceedings](http://ceur-ws.org/Vol-2327/#MILC) online
@@ -9,9 +9,9 @@ MILC 2019 is held in conjunction with the 24th International Conference on Intel
 
 ## Workshop Program
 
-#### 9:00-9:10	Welcome ([Proceedings Preface](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-0.pdf))
+#### 9:00-9:10	Welcome ([Proceedings Preface](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-0.pdf) / [IUI Overview Paper](https://doi.org/10.1145/3308557.3313110))
 #### 9:10-10:30 Session 1 (Short Papers)
-- [A Web-Based System For Suggesting New Practice Material To Music Learners Based On Chord Content]](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-1.pdf). *Johan Pauwels and Mark Sandler* (15+5')
+- [A Web-Based System For Suggesting New Practice Material To Music Learners Based On Chord Content](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-1.pdf). *Johan Pauwels and Mark Sandler* (15+5')
 - [Groove Explorer: An Intelligent Visual Interface for Drum Loop Library Navigation](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-2.pdf). *Fred Bruford, Mathieu Barthet, SKoT McDonald and Mark Sandler* (15+5')
 - [Curating Generative Raw Audio Music with D.O.M.E.](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-3.pdf). *CJ Carr and Zack Zukowski* (15+5')
 - [Creating Immersive Electronic Music from the Sonic Activity of Environmental Soundscapes](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-4.pdf). *Eli Stine* (15+5')
